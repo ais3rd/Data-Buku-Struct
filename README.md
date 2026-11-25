@@ -33,3 +33,6 @@ The project file is for Code::Blocks (`Faktorial.cbp`). You can also build it wi
 gcc main.c -o buku.exe
 buku.exe
 ```
+
+## License
+Released under the [MIT License](LICENSE).
