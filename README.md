@@ -2,6 +2,8 @@
 
 A C exercise on `struct` and pointers: it stores one book record and displays it.
 
+![Book record saved and displayed](screenshot.png)
+
 ## What it does
 1. Reads the book title, author and publication year (titles and names can contain spaces)
 2. Stores them in a `struct Buku`
